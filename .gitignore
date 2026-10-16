@@ -10,3 +10,6 @@ src/main/webapp
 .idea
 .DS_Store
 
+
+# Compiled output (Gradle generates this under build/; bin/ was committed by mistake)
+bin/
